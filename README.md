@@ -155,6 +155,8 @@ Build a web application that fetches and displays data from a public API.
 
 🔗 Blog Link:
 
+[Watch Blog](https://medium.com/@dileepguguloth2005/my-internship-experience-at-synent-technologies-f3e27fa41924)
+
 ---
 
 # 👨‍💻 Author
