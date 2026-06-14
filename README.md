@@ -145,6 +145,8 @@ Build a web application that fetches and displays data from a public API.
 
 🔗 Live Website Link:
 
+[Watch Live Demo](https://dileep2609.github.io/synent-task6-githubfinder-dileep/)
+
 ---
 
 # 📝 Internship Experience Blog
