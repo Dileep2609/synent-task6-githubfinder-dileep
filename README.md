@@ -75,8 +75,8 @@ synent-task6-githubfinder-dileep
 ├── screenshots
 │   ├── homepage.png
 │   ├── search-result.png
-│   ├── profile-details.png
-│   └── mobile-view.png
+│   └── profile-details.png
+│
 │
 └── README.md
 ```
@@ -97,25 +97,13 @@ synent-task6-githubfinder-dileep
 
 ![Profile Details](screenshots/profile-details.png)
 
-## Mobile Responsive View
-
-![Mobile View](screenshots/mobile-view.png)
-
 ---
 
 # 🔗 API Used
 
 GitHub Public API
 
-```text
-https://api.github.com/users/{username}
-```
-
-Example:
-
-```text
-https://api.github.com/users/octocat
-```
+https://github.com/Dileep2609/synent-task6-githubfinder-dileep.git
 
 ---
 
@@ -149,10 +137,6 @@ Build a web application that fetches and displays data from a public API.
 
 🔗 YouTube Video Link:
 
-```text
-Add Your YouTube Video Link Here
-```
-
 ---
 
 # 🌍 Live Demo
@@ -161,16 +145,6 @@ Add Your YouTube Video Link Here
 
 🔗 Live Website Link:
 
-```text
-Add Your GitHub Pages Link Here
-```
-
-Example:
-
-```text
-https://dileep2609.github.io/synent-task6-githubfinder-dileep/
-```
-
 ---
 
 # 📝 Internship Experience Blog
@@ -178,10 +152,6 @@ https://dileep2609.github.io/synent-task6-githubfinder-dileep/
 ### Synent Technologies Internship Experience
 
 🔗 Blog Link:
-
-```text
-Add Your LinkedIn Blog Link Here
-```
 
 ---
 
