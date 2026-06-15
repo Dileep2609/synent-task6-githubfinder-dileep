@@ -157,7 +157,7 @@ https://dileep2609.github.io/synent-task6-githubfinder-dileep/
 
 🔗 Blog Link:
 
-[Watch Blog](https://medium.com/@dileepguguloth2005/my-internship-experience-at-synent-technologies-f3e27fa41924)
+https://medium.com/@dileepguguloth2005/my-internship-experience-at-synent-technologies-f3e27fa41924
 
 ---
 
