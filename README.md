@@ -137,6 +137,8 @@ Build a web application that fetches and displays data from a public API.
 
 🔗 YouTube Video Link:
 
+https://youtu.be/Z-HBPN6j0eU
+
 ---
 
 # 🌍 Live Demo
@@ -145,7 +147,7 @@ Build a web application that fetches and displays data from a public API.
 
 🔗 Live Website Link:
 
-[Watch Live Demo](https://dileep2609.github.io/synent-task6-githubfinder-dileep/)
+https://dileep2609.github.io/synent-task6-githubfinder-dileep/
 
 ---
 
